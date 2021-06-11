@@ -1,0 +1,17 @@
+{
+  "codUsuario": null,
+  "desNomeUsuario": null,
+  "numTelefone": null,
+  "numSegundosToken": 0,
+  "enuStatus": 0,
+  "ClientePossuiConta": {
+    "FlgPossuiConta": false,
+    "FlgPossuiCartao": false,
+    "EnuStatusContaDigitalEnum": 0
+  },
+  "errorCode": null,
+  "errorValue": null,
+  "errorMessage": null,
+  "errorUserMessage": null,
+  "stackTrace": null
+}

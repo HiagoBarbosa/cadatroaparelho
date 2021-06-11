@@ -1,0 +1,9 @@
+{
+  "codPerguntaSecreta": 3,
+  "desPerguntaSecreta": "Qual o dia e mês de aniversário do titular do cartão? (4 dígitos)",
+  "errorCode": null,
+  "errorValue": null,
+  "errorMessage": null,
+  "errorUserMessage": null,
+  "stackTrace": null
+}
